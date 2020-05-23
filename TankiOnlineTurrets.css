@@ -1,0 +1,58 @@
+h1 {
+    text-align: center;
+    color: rgb(84, 50, 10);
+    font-size: 75px;
+    text-shadow: 6px 2px 3px rgba(214, 62, 67, 1);
+	background-image: url("http://vignette3.wikia.nocookie.net/tankionline/images/5/50/Wiki-background/revision/20130830153625");
+	background-size: 1000px;
+	border: 6px solid rgb(63, 15, 112);
+	width: 800px;
+	margin: auto;
+	border-radius: 50px;
+}
+			
+h2 {
+   	color: tan;
+    font-size: 35px;
+	border: 8px solid rgb(96, 15, 15);
+	width: 400px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url("http://grclan.webstarts.com/uploads/RED_LIGHTING.jpg");
+	border-radius: 25px;
+}
+			
+dt {
+    color: blue;
+	font-size: 125%;
+}
+			
+IMG.turretimages {
+	width: 200px;
+	display: block;
+	margin: 0 auto;
+}
+			
+.turretsection {
+	background-image: url("http://vignette3.wikia.nocookie.net/tankionline/images/5/50/Wiki-background/revision/20130830153625");
+	border: 6px solid rgb(191, 81, 224);
+	padding: 50px;
+	border-radius: 50px; 
+}
+			
+dd {
+	color: red;
+}
+			
+body {
+	font-size: 125%;
+	background-image: url("http://lightningstrikers.bl.ee/wp-content/uploads/2014/06/Background.jpg");
+	background-size: 2526px 2020px;
+}
+			
+						
+#wholepage {
+	width: 1500px;
+	margin: auto;
+}

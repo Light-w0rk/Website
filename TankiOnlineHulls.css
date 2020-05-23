@@ -1,0 +1,57 @@
+ h1 {
+	text-align: center;
+    color: rgb(84, 50, 10);
+	font-size: 75px;
+    text-shadow: 6px 2px 2px rgba(149, 198, 255, 1);
+	background-image: url("http://vignette3.wikia.nocookie.net/tankionline/images/5/50/Wiki-background/revision/20130830153625");
+	background-size: 1000px;
+	width: 700px;
+	margin: auto;
+	border: 6px solid tan;
+	border-radius: 50px;
+}
+			
+h2 {
+	color: rgb(170, 89, 8);
+    font-size: 35px;
+	border: 8px solid rgb(44, 32, 125);
+	width: 300px;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	background-image: url("http://m.artician.com/pu/6AOLRV2CPAUAE3J6ZFSYFIGSWEQE247M.preview.jpeg");
+	border-radius: 25px;
+}
+            
+dt {
+    color: red;
+	font-size: 125%;
+}
+			
+IMG.hullimages {
+	width: 200px;
+	display: block;
+	margin:0 auto;
+}
+			
+.hullsection {
+	background-image: url("http://vignette3.wikia.nocookie.net/tankionline/images/5/50/Wiki-background/revision/20130830153625");
+	border: 6px solid rgb(191, 81, 224);
+	padding: 50px;
+	border-radius: 50px;
+}
+			
+dd {
+	color: blue;
+}
+
+body {
+	background-image: url("http://lightningstrikers.bl.ee/wp-content/uploads/2014/06/Background.jpg");
+	font-size: 125%;
+}	
+			
+#wholepage {
+	width: 1500px;
+	margin: auto;
+}
+			

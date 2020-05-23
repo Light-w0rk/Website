@@ -1,0 +1,231 @@
+table, th, td {
+	border: 1px solid black;
+	margin: auto;
+}
+			
+#tdcontents {
+	width: 30%;
+	background-color: tan;
+}
+			
+.tdalign {
+	vertical-align: top;
+} 
+			
+h1 {
+	text-align: center;
+	font-size: 100px;
+	color: rgb(14, 164, 156);
+	text-shadow: 3px 4px 1px rgba(67, 0, 172, 1);
+}
+						
+IMG.imgupradesystem {
+	width: 200px;
+}
+			
+body {
+	font-size: 120%;
+}
+			
+.td1 {
+	width: 300px;
+	font-size: 200%;
+	text-align: center;
+	background-color: rgb(12, 12, 79);
+}
+			
+#table1 {
+	width: 1400px;
+	border: 5px solid rgb(78, 176, 48);
+}
+			
+						
+IMG.images {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 65%;
+	border: 5px solid black;
+}
+		
+#td1 {
+	background-image: url("http://vignette3.wikia.nocookie.net/tankionline/images/5/50/Wiki-background/revision/20130830153625");
+}	
+			
+#wholepage {
+	margin: 80px;
+	text-align: center;
+}
+			
+.ollists {
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+			
+#ullist {
+	list-style: none;
+	text-align: center;
+	display: inline-block;
+	margin-left: auto;
+	margin-right: auto;
+}
+		
+#tdpadding {
+	padding-left: 100px;
+	padding-right: 100px;
+	background-color: rgb(4, 4, 143);
+	color: rgb(175, 212, 212);
+}
+			
+a {
+	color: red;
+}
+			
+#table2 {
+	border: 5px black ridge;
+	border-radius: 10px;
+}
+			
+.th {
+	font-size: 150%;
+	background-color: rgba(237, 181, 135, 0.4);
+}
+			
+#battlemodesimg {
+	background-color: rgb(240, 210, 167);
+	color: rgb(64, 64, 221);
+}
+			
+.battlemodes {
+	font-size: 120%;
+	color: rgb(209, 29, 29); 
+}
+			
+#battlemodes {
+	font-size: 300%;
+	color: rgb(152, 66, 66);
+}
+
+#suppliesimg {
+	background-image: url("http://cdn01.wallpapersonweb.com/media/tn4/1/1/5451.jpg");
+	color: rgb(243, 140, 36);
+}
+			
+.supplies {
+	font-size: 150%;
+	color: rgb(35, 152, 152);
+}
+			
+#supplies {
+	font-size: 300%;
+	color: rgb(117, 39, 194);
+}
+			
+#rankingsystemimg {
+	background-image: url("http://www.dailypicsupdate.com/wp-content/uploads/2013/01/amzing-lining-website-plain-background-269x170.jpg");
+	color: rgb(243, 140, 21);
+}
+			
+#garageimg {
+	background-image: url("http://skininvestigation.com/img/fullsize/grey_background_spotlight_powerpoint_ppt_psd_template_free_download_800x450.jpg");
+	color: rgb(60, 174, 251);
+}
+			
+#rankingsystem {
+	font-size: 300%;
+	color: tan;		
+}
+			
+#garage {
+	font-size: 300%;
+	color: rgb(163, 102, 223);
+}
+			
+#upgradesystem {
+	font-size: 300%;
+	color: rgb(185, 18, 18);
+}
+		
+#upgradesystemimg {
+	background-color: tan;
+	color: rgb(46, 16, 198);
+}
+			
+#paragraph1 {
+	padding: 40px;
+	margin-left: 120px;
+	margin-right: 120px;
+	background-color: rgba(224, 190, 163, 0.4);
+}
+			
+						
+#paints {
+	font-size: 300%;
+	color: rgb(31, 121, 31);
+}
+			
+#paintimg {
+	background-color: rgb(221, 200, 242);
+	color: rgb(26, 35, 151);
+}
+		
+#table2 {
+	color: rgb(6, 51, 85);
+	border: 5px solid rgb(191, 81, 224);
+}
+			
+.paintth {
+	font-size: 150%;
+	color: rgb(29, 137, 219);
+}
+			
+#painth1 {
+	color: red;
+}
+			
+#painth2 {
+	color: blue;
+}
+			
+#devh2 {
+	color: rgb(209, 122, 35);
+}
+			
+body {
+	background-image: url("http://vignette3.wikia.nocookie.net/tankionline/images/5/50/Wiki-background/revision/20130830153625");
+	margin-top: 60px;
+}
+			
+.borders {
+	border: 5px solid rgb(191, 81, 224);
+	border-radius: 50px;
+	padding: 70px;
+}
+			
+#table3 {
+	border: 5px solid rgb(191, 81, 224);
+	background-color: rgb(184, 228, 244);
+	border-collapse: collapse;
+}
+
+.turretypes {
+	color: rgb(243, 142, 41);
+}	
+
+.table4 {
+	border-collapse: collapse;
+}
+
+#referenceheading {
+	font-size: 300%;
+	text-align: center;
+	color: rgb(46, 116, 229);
+}
+
+#reference {
+	text-align: left;
+	background-color: rgb(204, 174, 233);
+}	
